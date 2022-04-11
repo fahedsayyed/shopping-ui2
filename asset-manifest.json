@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-ui2/static/css/main.11e6a109.chunk.css",
+    "main.js": "/shopping-ui2/static/js/main.140af299.chunk.js",
+    "main.js.map": "/shopping-ui2/static/js/main.140af299.chunk.js.map",
+    "runtime-main.js": "/shopping-ui2/static/js/runtime-main.9a9bc9d3.js",
+    "runtime-main.js.map": "/shopping-ui2/static/js/runtime-main.9a9bc9d3.js.map",
+    "static/js/2.b0039246.chunk.js": "/shopping-ui2/static/js/2.b0039246.chunk.js",
+    "static/js/2.b0039246.chunk.js.map": "/shopping-ui2/static/js/2.b0039246.chunk.js.map",
+    "static/js/3.8a4a1c5b.chunk.js": "/shopping-ui2/static/js/3.8a4a1c5b.chunk.js",
+    "static/js/3.8a4a1c5b.chunk.js.map": "/shopping-ui2/static/js/3.8a4a1c5b.chunk.js.map",
+    "index.html": "/shopping-ui2/index.html",
+    "static/css/main.11e6a109.chunk.css.map": "/shopping-ui2/static/css/main.11e6a109.chunk.css.map",
+    "static/js/2.b0039246.chunk.js.LICENSE.txt": "/shopping-ui2/static/js/2.b0039246.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shopping-ui2/static/media/banner.380a65bb.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9bc9d3.js",
+    "static/js/2.b0039246.chunk.js",
+    "static/css/main.11e6a109.chunk.css",
+    "static/js/main.140af299.chunk.js"
+  ]
+}
